@@ -1,0 +1,6 @@
+name: poo_dart
+environment:
+    sdk: ">=2.17.0 <3.0.0"
+dependencies:
+    crypto: ^3.0.3
+    uuid: ^4.4.0
